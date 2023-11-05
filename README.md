@@ -1,6 +1,6 @@
-# EXOEmailDeletingSubjectAllUsers
+# Tüm Kullanıcıların E-Posta Kutularından Konu Başlığına Göre E-Posta Silme İşlemi
 Bu PowerShell betiği tüm kullanıcıların e-posta kutularına ulaşan e-postaların, konu başlığına göre silinmesini sağlamaktadır. Örneğin; Bu e-postalar genellikle zararlı bir link (phishing) veya zararlı bir ek (malware) içeriyor olabililir. Yada Muhasebe departmanından yanlışlıkla tüm kullanıcılara gönderilmiş,tüm personele ait maaş bordrosu olabilir. 
-# Tüm Kullanıcıların Konu Başlığına Göre E-Posta Silme Nasıl çalışır ? 
+# Tüm Kullanıcıların E-Posta Kutularından Konu Başlığına Göre E-Posta Silme İşlemi Nasıl çalışır ? 
 ![1](https://github.com/mparlakyigit/EXOEmailDeletingSubjectAllUsers/assets/53214224/472516d7-d4dd-477f-ac61-ba292de47fe1)
 - Öncelikle PowerShell yönetici olarak çalıştıralım.
 - PowerShell üzerinde EXOEmailDeletingSubjectAllUsers indirdiğimimiz PowerShell betiğinin bulunduğu dizine geçelim.
