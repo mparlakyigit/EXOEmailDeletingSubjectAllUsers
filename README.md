@@ -21,6 +21,7 @@ Yukarıdaki görselde olduğu gibi tüm kullancıların e-posta kutularına gön
 
 # Sonuç;
 Aşağıdaki görselde olduğu gibi TestV1 All Mailbox gelen konu başlıklı e-postalar tüm kullanıcıların e-posta kutularından silindi.
+
 ![4](https://github.com/mparlakyigit/EXOEmailDeletingSubjectAllUsers/assets/53214224/b1f51cbf-1c99-4fae-997b-5078423f2718)
 
 # Sorun giderme;
