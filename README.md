@@ -25,7 +25,7 @@ Aşağıdaki görselde olduğu gibi TestV1 All Mailbox gelen konu başlıklı e-
 ![4](https://github.com/mparlakyigit/EXOEmailDeletingSubjectAllUsers/assets/53214224/b1f51cbf-1c99-4fae-997b-5078423f2718)
 
 # Sorun giderme;
-- PowerShell üzerinde betiği çalıştıramk istediğinizde bir hata alırsanız, aşağıdaki PowerShell script çalıştırın.
-  Set-ExecutionPolicy Unrestricted
+- PowerShell üzerinde betiği çalıştırmak istediğinizde bir hata alırsanız, aşağıdaki PowerShell script çalıştırın.
+- Set-ExecutionPolicy Unrestricted
 - Yine problem devam ederse Global admin kullanıcınızda MFA'yı geçici olarak devre dışı bırakın. 
   
